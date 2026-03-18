@@ -63,4 +63,13 @@
 
 - Building scalable backend systems  
 - Exploring AI + Full Stack integration  
-- Improving system design skills  
+- Improving system design skills
+
+---
+
+## 🏗️ System Design Thinking
+
+- Designed scalable REST APIs
+- Handled concurrent users
+- Optimized database queries
+- Implemented caching strategies
